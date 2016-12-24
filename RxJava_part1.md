@@ -217,3 +217,9 @@ Observable.just("Hello World!")
    你可以在Observable和Subscriber之间添加任意数量的map()操作符.整个框架是高度解耦的,操作Observable发出的事件变得非常简单,只要有正确的输入和输出,你可以使用链式结构无限转换.
 
 结合以上两点,你可以发现这个框架有着无限的可能.由于第一部分只介绍RxJava基础的关系,我们这里只介绍了map()操作符,接下来,我们会在第二部分深入探讨RxJava中提供的更多更牛逼的操作符使用.
+
+
+------
+# 原文链接
+
+[Grokking RxJava, Part 1: The Basics](http://blog.danlew.net/2014/09/15/grokking-rxjava-part-1/)
