@@ -178,4 +178,4 @@ RxJava有大量的操作符.虽然操作符的数量大的惊人,但是它们仍
 ------
 # 原文链接
 
-[Grokking RxJava, Part 1: The Basics](http://blog.danlew.net/2014/09/15/grokking-rxjava-part-2/)
+[Grokking RxJava, Part 2: Operator, Operator](http://blog.danlew.net/2014/09/15/grokking-rxjava-part-2/)
